@@ -1,4 +1,3 @@
-
 const Pizza = (props) => {
   return (
     <div className="pizza">
@@ -8,4 +7,5 @@ const Pizza = (props) => {
     </div>
   );
 };
+
 export default Pizza;
